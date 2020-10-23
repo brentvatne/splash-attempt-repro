@@ -1,0 +1,12 @@
+{
+  "name": "darksplashy",
+  "displayName": "darksplashy",
+  "expo": {
+    "name": "darksplashy",
+    "slug": "darksplashy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

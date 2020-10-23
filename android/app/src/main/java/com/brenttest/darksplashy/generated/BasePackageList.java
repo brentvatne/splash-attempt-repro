@@ -1,4 +1,4 @@
-package com.darksplashy.generated;
+package com.brenttest.darksplashy.generated;
 
 import java.util.Arrays;
 import java.util.List;

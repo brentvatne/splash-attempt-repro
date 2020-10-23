@@ -5,8 +5,20 @@
     "name": "darksplashy",
     "slug": "darksplashy",
     "version": "1.0.0",
+    "backgroundColor": "#000",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.brenttest.darksplashy"
+    },
+    "ios": {
+      "bundleIdentifier": "com.brenttest.darksplashy"
+    }
   }
 }

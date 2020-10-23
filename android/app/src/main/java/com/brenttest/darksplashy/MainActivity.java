@@ -1,4 +1,4 @@
-package com.darksplashy;
+package com.brenttest.darksplashy;
 
 import android.os.Bundle;
 
